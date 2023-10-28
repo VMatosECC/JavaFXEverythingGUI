@@ -1,0 +1,9 @@
+.cssMyTableColumnStyle 
+{
+    -fx-alignment: center;
+    -fx-font-weight: bold;
+    -fx-background-color: #F0F0F0;
+    -fx-text-fill: #333333;
+}
+
+
